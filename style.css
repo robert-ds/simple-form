@@ -26,3 +26,45 @@ body {
 	box-shadow: 0 15px 35px rgba(143,124,236, .7);
 	border-radius: 10px;
 }
+
+.login-box h2 {
+	margin: 0 0 30px;
+	padding: 0;
+	color: #fff;
+	text-align: center;
+}
+
+.login-box .user-box input {
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+	font-size: 16px;
+	color: #fff;
+	margin-bottom: 30px;
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+}
+
+.login-box .user-box label {
+	position: relative;
+	left: 0;
+	top: -60px;
+	padding: 10px 0;
+	font-size: 16px;
+	color: #fff;
+	pointer-events: none;
+	transition: .5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
