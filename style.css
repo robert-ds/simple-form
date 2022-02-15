@@ -57,6 +57,14 @@ body {
 	transition: .5;
 }
 
+.login-box .user-box input:focus~label,
+.login-box .user-box input:valid~label {
+	top: -92px;
+	left: 0;
+	color: #8F7CEC;
+	font-size: 12pxM
+}
+
 
 
 
